@@ -12,11 +12,4 @@ Python 3, any additional dependencies are outlined within the model you're toyin
 
 ### Installing
 
-## Running the tests
 
-In construction
-
-## Contributing
-
-Be respectful to contributors
-Create PRs when happy with code and ready for review
